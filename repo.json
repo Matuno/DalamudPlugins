@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "Detle",
+    "Name": "Party Scout",
+    "InternalName": "PartyScout",
+    "AssemblyVersion": "0.1.6.0",
+    "Description": "Search Party Finder with separate job, duty and keyword profiles. Compare role-weighted matches, inspect party rosters and public progression, and watch for friends or FC members across listings. Optional alerts and timed party switching. Experimental: some native features still need in-game validation.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "party finder",
+      "alerts",
+      "development"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Matuno/PartyScout/main/images/icon.png",
+    "Punchline": "Find the right party and see who's playing.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Matuno/PartyScout",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/latest.zip?v=0.1.6.0",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/latest.zip?v=0.1.6.0",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/latest.zip?v=0.1.6.0",
+    "LastUpdate": 1793091193
+  }
+]
