@@ -25,5 +25,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.3.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.3.zip",
     "LastUpdate": 1793098749
+  },
+  {
+    "Author": "Matuno",
+    "Name": "Glamour Browser",
+    "InternalName": "GlamourBrowser",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Browse equipment by slot, move through model groups with Up/Down and compare variants with Left/Right. Save favourites, preview dyes and restore remembered pieces displaced by sets. Open with /glamourbrowse.\n\nVisual trait classification and ring-side restoration are not included. The logo is AI-generated.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Matuno/GlamourBrowser",
+    "Tags": [
+      "glamour",
+      "gear",
+      "fitting room"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/icon.png",
+    "Punchline": "Browse model groups, compare variants and preview gear with dyes.",
+    "Changelog": "Initial Glamour Browser release: grouped model and variant browsing, favourites, dyes, remembered slot selections and Fitting Room controls.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/0.1.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/0.1.0.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/0.1.0.0.zip",
+    "LastUpdate": 1793138886
   }
 ]
