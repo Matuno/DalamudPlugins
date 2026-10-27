@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Detle",
+    "Author": "Matuno",
     "Name": "Party Scout",
     "InternalName": "PartyScout",
-    "AssemblyVersion": "0.1.6.1",
+    "AssemblyVersion": "0.1.6.2",
     "Description": "Find Party Finder groups that match your goals, see their members and progress, and spot friends. Get alerts or opt in to automatic party switching.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,9 +22,9 @@
     "RepoUrl": "https://github.com/Matuno/PartyScout",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.1.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.1.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.1.zip",
-    "LastUpdate": 1793091601
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.2.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.2.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.2.zip",
+    "LastUpdate": 1793091768
   }
 ]
