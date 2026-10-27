@@ -10,7 +10,7 @@ Save the settings, open the plugin installer, and search for **Party Scout**.
 
 ## Plugins
 
-- [Party Scout](https://github.com/Matuno/PartyScout) — search Party Finder, inspect parties and watch for contacts. This is an experimental build; see its README for the current testing limits.
+- Party Scout — search Party Finder, inspect parties and watch for contacts.
 
 ## Updating a plugin
 

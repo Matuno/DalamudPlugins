@@ -8,18 +8,16 @@
     "ApplicableVersion": "any",
     "Tags": [
       "party finder",
-      "alerts",
-      "development"
+      "alerts"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Matuno/PartyScout/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/icon.png",
     "Punchline": "Find the right party and see who's playing.",
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/Matuno/PartyScout",
+    "AcceptsFeedback": false,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.2.zip",
