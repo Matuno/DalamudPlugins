@@ -22,9 +22,9 @@
     "RepoUrl": "https://github.com/Matuno/PartyScout",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/latest.zip?v=0.1.6.1",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/latest.zip?v=0.1.6.1",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/latest.zip?v=0.1.6.1",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.1.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.6.1.zip",
     "LastUpdate": 1793091601
   }
 ]

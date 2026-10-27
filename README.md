@@ -14,4 +14,6 @@ Save the settings, open the plugin installer, and search for **Party Scout**.
 
 ## Updating a plugin
 
-Build and test the plugin's new version, then copy its packaged `latest.zip` into `plugins/<InternalName>/`. Update its entry in `repo.json` from the manifest inside the ZIP, including the assembly version and Dalamud API level, and update the version query on all three download links. Commit and push the ZIP and manifest together. This repository does not publish automatically when the source repository changes.
+Build and test the plugin's new version, then copy its packaged `latest.zip` into `plugins/<InternalName>/` as `<AssemblyVersion>.zip`. Update its entry in `repo.json` from the manifest inside the ZIP, including the assembly version, Dalamud API level and all three download links. Commit and push the ZIP and manifest together, and keep old versioned packages so cached manifests remain valid. This repository does not publish automatically when the source repository changes.
+
+Party Scout's original `latest.zip` remains at version 0.1.6.0 for older cached manifests.
