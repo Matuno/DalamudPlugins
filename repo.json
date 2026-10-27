@@ -57,11 +57,11 @@
     "LastUpdate": 1793138886
   },
   {
-    "Author": "Detle",
+    "Author": "Matuno",
     "Name": "Story Lens",
     "InternalName": "StoryLens",
-    "AssemblyVersion": "1.0.1.0",
-    "Description": "Tracks Free Company story clues using world observations and paced public Lodestone profile checks, with saved last-seen points and quest-chain previews.",
+    "AssemblyVersion": "1.0.2.0",
+    "Description": "Tracks Free Company story clues using world observations and paced public Lodestone profile checks, with saved last-seen points and quest-chain previews. The logo is AI-generated.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Matuno/StoryLens",
     "Tags": [
@@ -74,14 +74,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/icon.png",
     "Punchline": "Quest markers and estimated Free Company MSQ progress.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.1.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.1.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.1.0.zip",
-    "LastUpdate": 1793140430,
-    "Changelog": "Quest objective markers, Free Company story estimates, player quest paths and saved last-seen evidence. Includes the 1.0.1 performance, reliability and localization fixes."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.2.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.2.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.2.0.zip",
+    "LastUpdate": 1793141143,
+    "Changelog": "Added the Story Lens logo and updated the author credit to Matuno. Tracking and quest inference are unchanged."
   }
 ]
