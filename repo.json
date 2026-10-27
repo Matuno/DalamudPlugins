@@ -55,5 +55,33 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/0.1.0.0.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/0.1.0.0.zip",
     "LastUpdate": 1793138886
+  },
+  {
+    "Author": "Detle",
+    "Name": "Story Lens",
+    "InternalName": "StoryLens",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "Tracks Free Company story clues using world observations and paced public Lodestone profile checks, with saved last-seen points and quest-chain previews.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Matuno/StoryLens",
+    "Tags": [
+      "quests",
+      "main story",
+      "overlay"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Quest markers and estimated Free Company MSQ progress.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.1.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.1.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/StoryLens/1.0.1.0.zip",
+    "LastUpdate": 1793140430,
+    "Changelog": "Quest objective markers, Free Company story estimates, player quest paths and saved last-seen evidence. Includes the 1.0.1 performance, reliability and localization fixes."
   }
 ]

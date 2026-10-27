@@ -6,13 +6,15 @@ Add this URL under **Dalamud Settings → Experimental → Custom Plugin Reposit
 https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/repo.json
 ```
 
-Save the settings, open the plugin installer, and search for **Party Scout** or **Glamour Browser**.
+Save the settings, open the plugin installer, and search for **Party Scout**, **Glamour Browser** or **Story Lens**.
 
 ## Plugins
 
 - [Party Scout](https://github.com/Matuno/PartyScout) — search Party Finder, inspect parties and watch for contacts.
 
 - [Glamour Browser](https://github.com/Matuno/GlamourBrowser) — browse gear model groups, compare variants, save favourites and preview dyes in the Fitting Room.
+
+- [Story Lens](https://github.com/Matuno/StoryLens) — estimate FC members' story progress, follow possible quest steps and see quest objective markers in the world.
 
 ## Updating a plugin
 
