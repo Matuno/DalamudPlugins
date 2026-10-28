@@ -89,8 +89,8 @@
     "Author": "Matuno",
     "Name": "Magitype Pilot",
     "InternalName": "MagitypePilot",
-    "AssemblyVersion": "0.1.6.0",
-    "Description": "Experimental Magitype automation with direct actions, typing fallback, configurable priorities, speed, automatic exit and requeue. Cast and barrier matching are experimental. The logo is AI-generated.",
+    "AssemblyVersion": "0.1.7.0",
+    "Description": "Experimental Magitype automation with direct actions, retries, configurable priorities, speed, automatic exit and requeue. Cast and barrier matching are experimental. The logo is AI-generated.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Matuno/MagitypePilot",
     "Tags": [
@@ -104,14 +104,14 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/icon.png",
-    "Punchline": "Automate typing in Magitype.",
+    "Punchline": "Automate Magitype with direct actions.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.6.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.6.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.6.0.zip",
-    "LastUpdate": 1793196111,
-    "Changelog": "Direct actions with typing fallback and an inactivity watchdog."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.7.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.7.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.7.0.zip",
+    "LastUpdate": 1793216150,
+    "Changelog": "Direct actions without typing; improved retries and unique target matching."
   }
 ]
