@@ -89,8 +89,8 @@
     "Author": "Matuno",
     "Name": "Magitype Pilot",
     "InternalName": "MagitypePilot",
-    "AssemblyVersion": "0.1.3.0",
-    "Description": "Experimental Magitype automation with configurable target priorities, speed and typing sound. Stop-typing and cast matching are experimental; barriers are not yet detected. The logo is AI-generated.",
+    "AssemblyVersion": "0.1.4.0",
+    "Description": "Experimental Magitype automation with configurable priorities, speed, automatic exit and requeue. Cast and barrier matching are experimental. The logo is AI-generated.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Matuno/MagitypePilot",
     "Tags": [
@@ -108,10 +108,10 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.3.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.3.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.3.0.zip",
-    "LastUpdate": 1793185385,
-    "Changelog": "Configurable target order, human and ludicrous typing speeds, typing sound mute, automatic requeue, and improved recovery and cast handling."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.4.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.4.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/0.1.4.0.zip",
+    "LastUpdate": 1793188114,
+    "Changelog": "Separate automatic exit and requeue controls, refreshed interface and speed slider, experimental barrier priority, and improved long-cast handling."
   }
 ]
