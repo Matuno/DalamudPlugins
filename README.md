@@ -6,7 +6,7 @@ Add this URL under **Dalamud Settings → Experimental → Custom Plugin Reposit
 https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/repo.json
 ```
 
-Save the settings, open the plugin installer, and search for **Party Scout**, **Glamour Browser**, **Story Lens**, or **Magitype Pilot**.
+Save the settings, open the plugin installer, and search for **Party Scout**, **Glamour Browser**, or **Story Lens**.
 
 ## Plugins
 
@@ -16,7 +16,6 @@ Save the settings, open the plugin installer, and search for **Party Scout**, **
 
 - [Story Lens](https://github.com/Matuno/StoryLens) — estimate FC members' story progress, follow possible quest steps and see quest objective markers in the world.
 
-- [Magitype Pilot](https://github.com/Matuno/MagitypePilot) — experimental automatic play for Magitype.
 
 ## Updating a plugin
 
