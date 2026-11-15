@@ -3,8 +3,8 @@
     "Author": "Matuno",
     "Name": "Party Scout",
     "InternalName": "PartyScout",
-    "AssemblyVersion": "0.1.7.0",
-    "Description": "Find Party Finder groups that match your goals, see their members and progress, and spot friends. Get alerts or opt in to automatic party switching.",
+    "AssemblyVersion": "0.1.8.0",
+    "Description": "Find parties that match your goals, see who's playing, and keep an eye on friends. Get alerts or opt in to automatic party switching.",
     "ApplicableVersion": "any",
     "Tags": [
       "party finder",
@@ -21,11 +21,11 @@
     "RepoUrl": "https://github.com/Matuno/PartyScout",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.7.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.7.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.7.0.zip",
-    "LastUpdate": 1793140232,
-    "Changelog": "View party members beside Party Finder, keep your party's duty and description, and enjoy faster player lookups and finder visibility controls."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.8.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.8.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.8.0.zip",
+    "LastUpdate": 1794778623,
+    "Changelog": "A redesigned compact view, preferred jobs, faster party discovery, and friends alongside your matches."
   },
   {
     "Author": "Matuno",
