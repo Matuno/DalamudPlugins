@@ -3,7 +3,7 @@
     "Author": "Matuno",
     "Name": "Party Scout",
     "InternalName": "PartyScout",
-    "AssemblyVersion": "0.1.8.0",
+    "AssemblyVersion": "0.1.9.0",
     "Description": "Find parties that match your goals, see who's playing, and keep an eye on friends. Get alerts or opt in to automatic party switching.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -21,11 +21,11 @@
     "RepoUrl": "https://github.com/Matuno/PartyScout",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.8.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.8.0.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.8.0.zip",
-    "LastUpdate": 1794778623,
-    "Changelog": "A redesigned compact view, preferred jobs, faster party discovery, and friends alongside your matches."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.9.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.9.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/PartyScout/0.1.9.0.zip",
+    "LastUpdate": 1795038652,
+    "Changelog": "The companion unfolds from its glyph. Group search profiles, see contacts by party, and review matching jobs before joining. Your party stays available in duties."
   },
   {
     "Author": "Matuno",
